@@ -132,4 +132,5 @@ marks=int(input("Enter your makrs"))
 result=Student(name,marks)
 
 result.display()
-    
+
+
